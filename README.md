@@ -8,4 +8,5 @@ Distintos proyectos de machine learning
 - [x] Explore the example data of Dogs vs. Cats
 - [x] Build and train a neural network to classify between the two pets
 - [x] Evaluate the training and validation accuracy
+      
 [Programming Assignment: Cats vs Dogs](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2W1_Assignment.ipynb)
