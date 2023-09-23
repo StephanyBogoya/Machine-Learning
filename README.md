@@ -14,3 +14,4 @@ Distintos proyectos de machine learning
 [ Week 2- Image Augmentation](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)
 
 - [x]  You can apply different preprocessing techniques such as rotate, flip, shear, or zoom on your existing images so you can simulate other data that the model should also learn from. This way, the model would see more variety in the images during training so it will infer better on new, previously unseen data.
+[Programming Assignment: Cats vs Dogs with Data Augmentation](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2W2_Assignment.ipynb)
