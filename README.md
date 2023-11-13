@@ -29,4 +29,6 @@ Distintos proyectos de machine learning
 - [x] Build a multiclass classifier for the Sign Language MNIST dataset.
 - [x] Learn how to properly set up the ImageDataGenerator parameters and the model definition functions for multiclass classification.
 - [x] Understand the difference between using actual image files vs images encoded in other formats and how this changes the methods available when using ImageDataGenerator
-- [x] Code a helper function to parse a raw CSV file which contains the information of the pixel values for the images used
+- [x] Code a helper function to parse a raw CSV file which contains the information of the pixel values for the images used.
+
+[Programming Assignment: Classification: Beyond two classes](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2W4_Assignment.ipynb)
