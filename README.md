@@ -17,3 +17,9 @@ Distintos proyectos de machine learning
 
 
 [Programming Assignment: Cats vs Dogs with Data Augmentation](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2W2_Assignment.ipynb)
+
+[ Week 3- Transfer Learning](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2_W3_Lab_1_transfer_learning.ipynb)
+
+- [x] You will see how you can use a pre-trained model to achieve good results even with a small training dataset. This is called transfer learning and you do this by leveraging the trained layers of an existing model and adding your own layers to fit your application.
+
+[Programming Assignment: Transfer Learning](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2W3_Assignment.ipynb)
