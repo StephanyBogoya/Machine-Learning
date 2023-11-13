@@ -23,3 +23,10 @@ Distintos proyectos de machine learning
 - [x] You will see how you can use a pre-trained model to achieve good results even with a small training dataset. This is called transfer learning and you do this by leveraging the trained layers of an existing model and adding your own layers to fit your application.
 
 [Programming Assignment: Transfer Learning](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2W3_Assignment.ipynb)
+
+[ Week 4- Multiclass Classifications](https://github.com/StephanyBogoya/Machine-Learning/blob/main/C2_W4_Lab_1_multi_class_classifier.ipynb)
+
+- [x] Build a multiclass classifier for the Sign Language MNIST dataset.
+- [x] Learn how to properly set up the ImageDataGenerator parameters and the model definition functions for multiclass classification.
+- [x] Understand the difference between using actual image files vs images encoded in other formats and how this changes the methods available when using ImageDataGenerator
+- [x] Code a helper function to parse a raw CSV file which contains the information of the pixel values for the images used
